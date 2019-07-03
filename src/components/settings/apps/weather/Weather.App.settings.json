@@ -1,0 +1,12 @@
+{
+    "widgetSetting": {
+        "visibility": true,
+        "type": "widget",
+        "position": 1,
+        "title": "WeatherNote"
+    },
+    "appSetting": {
+        "temperature-unit": "celsius",
+        "city": "London"
+    }
+}

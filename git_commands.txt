@@ -1,0 +1,30 @@
+// настройка
+git config --global user.name "F0RTI"
+git config --global user.email "aybaksua@gmail.com"
+git config --list
+// подключеие
+git remote add origin https://github.com/Fall4G/node.git
+git remote add origin https://github.com/Fall4G/Anis.git
+git remote add origin https://github.com/F0RTI/node.git
+/// текущее подключение
+git remote -v
+/// удаление подключения
+git remote rm origin
+// 1 статус файлов 
+git status
+// 2 добавление
+git add .
+// 3 модификация
+git commit -m 'COMMIT'
+// 4 загрузка
+git push -u origin master
+git push
+// удаление git
+rmdir .git 
+// просмотр папки
+git init
+// просмотр папки
+ls
+// история/проверка изминений
+git pull
+
