@@ -3,9 +3,7 @@ git config --global user.name "F0RTI"
 git config --global user.email "aybaksua@gmail.com"
 git config --list
 // подключеие
-git remote add origin https://github.com/Fall4G/node.git
-git remote add origin https://github.com/Fall4G/Anis.git
-git remote add origin https://github.com/F0RTI/node.git
+git remote add origin https://github.com/F0RTI/anis.git
 /// текущее подключение
 git remote -v
 /// удаление подключения
